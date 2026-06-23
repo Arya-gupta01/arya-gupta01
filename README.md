@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full Stack MERN applications and improving my DSA skills<br><br>👯 I’m looking to collaborate on Open Source Projects, Web Development Projects, and Hackathons<br><br>🤝 I’m looking for help with System Design, Cloud Technologies, and Advanced Backend Development<br><br>🌱 I’m currently learning Advanced JavaScript, React.js, Node.js, Express.js, MongoDB, and Interview-Oriented DSA<br><br>💬 Ask me about Java, Data Structures & Algorithms, MERN Stack Development, REST APIs, and MongoDB<br><br>⚡ Fun fact: I have solved 650+ LeetCode problems and enjoy turning ideas into real-world web applications!
+🔭 I’m currently working on Full Stack MERN applications and improving my DSA skills<br>👯 I’m looking to collaborate on Open Source Projects, Web Development Projects, and Hackathons<br>🤝 I’m looking for help with System Design, Cloud Technologies, and Advanced Backend Development<br>🌱 I’m currently learning Advanced JavaScript, React.js, Node.js, Express.js, MongoDB, and Interview-Oriented DSA<br>💬 Ask me about Java, Data Structures & Algorithms, MERN Stack Development, REST APIs, and MongoDB<br>⚡ Fun fact: I have solved 650+ LeetCode problems and enjoy turning ideas into real-world web applications!
 
 
 ## 🌐 Socials:
